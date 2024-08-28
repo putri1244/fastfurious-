@@ -1,0 +1,5 @@
+class ijn {
+    constructor(parameters) {
+        
+    }
+}
